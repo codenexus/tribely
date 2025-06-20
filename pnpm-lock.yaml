@@ -36,6 +36,15 @@ importers:
         specifier: ^5.4.3
         version: 5.8.3
 
+  packages/shared:
+    devDependencies:
+      '@types/node':
+        specifier: ^20.11.30
+        version: 20.19.1
+      typescript:
+        specifier: ^5.4.3
+        version: 5.8.3
+
 packages:
 
   '@eslint-community/eslint-utils@4.7.0':
